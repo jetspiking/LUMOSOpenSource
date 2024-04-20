@@ -259,7 +259,7 @@
         <ul class="installation-instructions">
             <li>
                 <p><strong>Mac OS</strong>:</p>
-                <code>xattr -d com.apple.quarantine /path/to/LUMOS</code>
+                <code>xattr -d com.apple.quarantine LUMOS-osx-x64</code>
             </li>
             <li>
                 <p><strong>Windows</strong>:</p>
@@ -267,7 +267,7 @@
             </li>
             <li>
                 <p><strong>Linux</strong>:</p>
-                <code>chmod +x /path/to/LUMOS-lin-x64</code><br>
+                <code>chmod +x LUMOS-lin-x64</code><br>
                 <code>./LUMOS-lin-x64</code>
             </li>
         </ul>
