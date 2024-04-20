@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/jetspiking/LUMOS/main/Readme/Icon.png" width="64" height="64"> LUMOS Unified Mock Operating System
+# <img src="https://raw.githubusercontent.com/jetspiking/LUMOS/main/Readme/Icon.png" width="64" height="64"> LUMOS Open Source Website
 ![](https://github.com/jetspiking/LUMOSOpenSource/blob/main/Website/Overview.png)
 
 # Description
