@@ -2,7 +2,7 @@
 ![](https://github.com/jetspiking/LUMOSOpenSource/blob/main/Website/Overview.png)
 
 # Description
-Source code for the [(lumosopensource.com)](https://lumosopensource.com/) website.
+Source code for the [lumosopensource.com](https://lumosopensource.com/) website.
 
 # Thank you
 If you enjoy this software series, you could consider supporting me by purchasing application [Colorpick - PRO](https://store.steampowered.com/app/1388790/Colorpick__PRO). For a few dollars (depending on Steam pricing in region) you receive a DRM-free Colorpick application. You can also contact me through mail if you would like the to purchase the application outside of Steam.
